@@ -1,2 +1,2 @@
 # Advanced-WordPress-Theme-Development
-Advanced WordPress Theme Development -  Codeytek Academy
+aquila - Advanced WordPress Theme Development -  Codeytek Academy
