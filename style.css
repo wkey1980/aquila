@@ -13,3 +13,7 @@ License:
 License URI: 
 Text Domain: aquila
 */
+
+body {
+    background-color: red;
+}
